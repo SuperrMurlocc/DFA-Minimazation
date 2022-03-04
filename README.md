@@ -14,7 +14,7 @@ Sample automate file:
 53y-
 ```
 
-would represent in such Mealy Automate:
+would represent such Mealy Automate:
 
 Q  |   |  a|  b|   |  a|  b
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
